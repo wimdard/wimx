@@ -1,0 +1,3 @@
+/Users/nikitasavelev/CLion projects/wimx/cmake-build-debug/CMakeFiles/wimx.dir
+/Users/nikitasavelev/CLion projects/wimx/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nikitasavelev/CLion projects/wimx/cmake-build-debug/CMakeFiles/rebuild_cache.dir
